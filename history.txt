@@ -1,0 +1,21 @@
+14
+cd test
+history
+exit
+echo hi			hello
+echo hi
+echo hi  hello
+cd test1
+pwd
+cd test2
+cd ..
+cd -
+cd ~
+history
+exit
+cd ~
+cd -
+pwd
+cd ..
+pwd
+cd
